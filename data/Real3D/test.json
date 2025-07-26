@@ -1,0 +1,1206 @@
+{"filename": "duck/test/333_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/577_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/577_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/693_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/693_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/324_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/586_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/586_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/523_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/684_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/684_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/356_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/684_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/684_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/765_sink.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/765_sink.txt", "clsname": "duck"}
+{"filename": "duck/test/666_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/666_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/347_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/266_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/374_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/621_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/621_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/657_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/657_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/666_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/666_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/121_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/765_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/765_sink_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/595_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/595_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/720_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/720_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/114_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/532_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/532_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/500_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/509_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/410_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/280_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/675_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/675_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/410_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/333_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/711_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/711_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/621_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/621_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/523_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/532_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/532_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/577_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/577_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/280_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/446_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/550_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/550_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/648_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/648_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/271_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/374_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/595_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/595_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/756_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/756_sink_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/464_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/639_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/639_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/639_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/639_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/559_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/559_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/365_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/559_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/559_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/365_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/473_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/464_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/550_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/550_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/509_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/702_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/702_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/657_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/657_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/419_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/500_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/541_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/541_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/738_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/738_sink_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/392_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/356_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/455_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/756_sink.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/756_sink.txt", "clsname": "duck"}
+{"filename": "duck/test/648_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/648_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/401_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/693_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/693_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/266_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/271_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/747_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/747_sink_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/491_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/114_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/428_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/287_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/428_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/392_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/491_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/541_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/541_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/675_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/675_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/568_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/568_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/630_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/630_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/324_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/711_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/711_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/586_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/586_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/720_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/720_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/729_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/729_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/419_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/738_sink.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/738_sink.txt", "clsname": "duck"}
+{"filename": "duck/test/747_sink.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/747_sink.txt", "clsname": "duck"}
+{"filename": "duck/test/729_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/729_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/630_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/630_bulge_cut.txt", "clsname": "duck"}
+{"filename": "duck/test/347_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/446_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/455_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/401_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/287_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/568_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/568_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/121_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "duck/test/702_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "duck/gt/702_bulge.txt", "clsname": "duck"}
+{"filename": "duck/test/473_good.pcd", "label": 0, "label_name": "good", "clsname": "duck"}
+{"filename": "airplane/test/399_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/399_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/67_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/328_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/600_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/614_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/614_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/461_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/461_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/614_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/614_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/519_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/519_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/240_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/170_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/191_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/461_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/461_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/621_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/621_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/573_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/573_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/628_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/628_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/676_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/676_sink_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/307_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/89_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/247_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/468_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/468_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/621_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/621_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/642_sink.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/642_sink.txt", "clsname": "airplane"}
+{"filename": "airplane/test/497_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/497_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/583_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/583_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/607_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/607_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/554_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/554_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/342_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/142_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/370_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/370_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/184_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/536_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/536_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/82_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/392_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/392_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/89_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/247_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/588_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/559_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/559_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/307_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/656_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/656_sink_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/559_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/559_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/349_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/184_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/342_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/370_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/370_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/642_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/642_sink_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/392_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/392_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/321_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/67_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/226_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/519_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/519_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/583_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/583_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/240_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/468_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/468_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/676_sink.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/676_sink.txt", "clsname": "airplane"}
+{"filename": "airplane/test/156_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/635_sink.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/635_sink.txt", "clsname": "airplane"}
+{"filename": "airplane/test/536_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/536_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/356_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/170_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/600_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/504_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/504_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/385_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/385_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/191_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/482_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/482_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/588_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/142_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/149_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/163_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/205_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/335_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/649_sink.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/649_sink.txt", "clsname": "airplane"}
+{"filename": "airplane/test/497_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/497_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/82_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/656_sink.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/656_sink.txt", "clsname": "airplane"}
+{"filename": "airplane/test/573_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/573_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/399_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/399_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/363_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/363_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/212_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/226_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/635_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/635_sink_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/628_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/628_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/205_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/212_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/504_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/504_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/554_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/554_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/328_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/314_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/349_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/321_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/356_good_copy.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/149_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/335_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/314_good.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/607_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/607_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/649_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/649_sink_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/363_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/363_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/385_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/385_bulge_cut.txt", "clsname": "airplane"}
+{"filename": "airplane/test/163_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "airplane/test/482_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "airplane/gt/482_bulge.txt", "clsname": "airplane"}
+{"filename": "airplane/test/156_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "airplane"}
+{"filename": "candybar/test/137_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/235_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/144_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/158_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/284_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/333_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/186_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/340_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/515_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/515_sink_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/242_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/298_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/494_sink.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/494_sink.txt", "clsname": "candybar"}
+{"filename": "candybar/test/249_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/438_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/438_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/382_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/382_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/459_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/459_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/354_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/354_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/200_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/305_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/480_sink.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/480_sink.txt", "clsname": "candybar"}
+{"filename": "candybar/test/228_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/368_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/368_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/172_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/347_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/347_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/333_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/172_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/312_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/165_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/319_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/396_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/396_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/375_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/375_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/529_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/529_sinks_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/235_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/382_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/382_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/424_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/424_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/361_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/361_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/389_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/389_bulges.txt", "clsname": "candybar"}
+{"filename": "candybar/test/151_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/361_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/361_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/389_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/389_bulges_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/445_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/445_bulges.txt", "clsname": "candybar"}
+{"filename": "candybar/test/270_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/151_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/144_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/263_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/459_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/459_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/515_sink.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/515_sink.txt", "clsname": "candybar"}
+{"filename": "candybar/test/347_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/347_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/319_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/508_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/508_sinks_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/466_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/466_bulges_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/529_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/529_sinks.txt", "clsname": "candybar"}
+{"filename": "candybar/test/410_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/410_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/298_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/368_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/368_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/305_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/403_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/403_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/242_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/522_sink.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/522_sink.txt", "clsname": "candybar"}
+{"filename": "candybar/test/354_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/354_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/417_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/417_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/158_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/403_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/403_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/445_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/445_bulges_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/326_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/375_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/375_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/186_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/165_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/522_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/522_sink_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/207_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/263_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/410_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/410_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/207_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/137_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/256_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/473_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/473_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/228_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/431_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/431_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/340_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/312_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/473_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/473_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/256_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/452_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/452_bulges_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/249_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/466_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/466_bulges.txt", "clsname": "candybar"}
+{"filename": "candybar/test/452_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/452_bulges.txt", "clsname": "candybar"}
+{"filename": "candybar/test/179_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/284_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/431_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/431_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/494_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/494_sink_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/326_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/270_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/396_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/396_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/179_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "candybar/test/417_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/417_bulge.txt", "clsname": "candybar"}
+{"filename": "candybar/test/424_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/424_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/508_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/508_sinks.txt", "clsname": "candybar"}
+{"filename": "candybar/test/480_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/480_sink_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/438_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "candybar/gt/438_bulge_cut.txt", "clsname": "candybar"}
+{"filename": "candybar/test/200_good.pcd", "label": 0, "label_name": "good", "clsname": "candybar"}
+{"filename": "shell/test/265_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/638_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/638_sink_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/337_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/666_sink.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/666_sink.txt", "clsname": "shell"}
+{"filename": "shell/test/328_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/631_sink.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/631_sink.txt", "clsname": "shell"}
+{"filename": "shell/test/488_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/551_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/390_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/572_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/572_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/369_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/586_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/586_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/523_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/523_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/558_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/558_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/467_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/474_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/572_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/572_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/652_sink.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/652_sink.txt", "clsname": "shell"}
+{"filename": "shell/test/579_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/579_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/390_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/614_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/614_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/614_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/614_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/537_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/537_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/238_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/666_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/666_sink_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/488_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/652_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/652_sink_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/404_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/481_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/579_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/579_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/411_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/645_sink.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/645_sink.txt", "clsname": "shell"}
+{"filename": "shell/test/673_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/673_sink_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/523_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/523_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/418_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/397_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/638_sink.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/638_sink.txt", "clsname": "shell"}
+{"filename": "shell/test/474_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/319_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/645_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/645_sink_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/362_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/411_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/362_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/607_sink.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/607_sink.txt", "clsname": "shell"}
+{"filename": "shell/test/481_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/565_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/565_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/509_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/509_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/530_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/530_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/502_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/502_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/346_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/319_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/516_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/516_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/238_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/292_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/516_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/516_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/544_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/544_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/565_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/565_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/544_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/544_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/355_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/509_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/509_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/274_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/383_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/631_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/631_sink_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/283_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/310_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/530_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/530_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/337_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/418_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/256_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/274_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/558_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/558_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/673_sink.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/673_sink.txt", "clsname": "shell"}
+{"filename": "shell/test/600_sink.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/600_sink.txt", "clsname": "shell"}
+{"filename": "shell/test/607_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/607_sink_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/383_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/495_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/495_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/256_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/586_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/586_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/551_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/502_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/502_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/537_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/537_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/425_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/600_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/600_sink_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/404_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/265_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/551_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/551_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/310_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/283_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/425_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/346_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/328_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/397_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/467_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/551_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/551_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/355_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/593_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/593_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/495_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/495_bulge.txt", "clsname": "shell"}
+{"filename": "shell/test/292_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "shell/test/593_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "shell/gt/593_bulge_cut.txt", "clsname": "shell"}
+{"filename": "shell/test/369_good.pcd", "label": 0, "label_name": "good", "clsname": "shell"}
+{"filename": "car/test/453_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/453_bulges_cut.txt", "clsname": "car"}
+{"filename": "car/test/218_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/405_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/615_sink.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/615_sink.txt", "clsname": "car"}
+{"filename": "car/test/236_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/480_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/480_bulges_cut.txt", "clsname": "car"}
+{"filename": "car/test/651_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/651_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/272_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/353_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/272_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/633_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/633_sink_cut.txt", "clsname": "car"}
+{"filename": "car/test/561_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/561_bulge.txt", "clsname": "car"}
+{"filename": "car/test/552_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/552_bulge.txt", "clsname": "car"}
+{"filename": "car/test/387_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/579_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/579_bulge.txt", "clsname": "car"}
+{"filename": "car/test/570_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/570_bulge.txt", "clsname": "car"}
+{"filename": "car/test/299_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/507_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/507_bulge.txt", "clsname": "car"}
+{"filename": "car/test/290_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/579_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/579_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/200_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/471_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/471_bulge.txt", "clsname": "car"}
+{"filename": "car/test/444_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/444_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/299_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/371_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/525_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/525_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/344_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/396_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/281_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/642_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/642_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/597_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/597_sinks.txt", "clsname": "car"}
+{"filename": "car/test/615_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/615_sink_cut.txt", "clsname": "car"}
+{"filename": "car/test/290_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/534_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/534_bulges_cut.txt", "clsname": "car"}
+{"filename": "car/test/489_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/489_bulge.txt", "clsname": "car"}
+{"filename": "car/test/396_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/444_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/444_bulge.txt", "clsname": "car"}
+{"filename": "car/test/245_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/362_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/362_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/597_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/597_sinks_cut.txt", "clsname": "car"}
+{"filename": "car/test/543_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/543_bulge.txt", "clsname": "car"}
+{"filename": "car/test/254_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/498_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/498_bulge.txt", "clsname": "car"}
+{"filename": "car/test/371_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/480_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/480_bulges.txt", "clsname": "car"}
+{"filename": "car/test/263_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/633_sink.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/633_sink.txt", "clsname": "car"}
+{"filename": "car/test/660_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/660_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/489_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/489_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/516_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/516_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/209_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/516_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/516_bulge.txt", "clsname": "car"}
+{"filename": "car/test/462_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/462_bulge.txt", "clsname": "car"}
+{"filename": "car/test/405_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/624_sink.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/624_sink.txt", "clsname": "car"}
+{"filename": "car/test/498_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/498_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/281_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/552_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/552_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/507_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/507_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/236_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/624_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/624_sink_cut.txt", "clsname": "car"}
+{"filename": "car/test/423_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/326_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/263_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/308_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/588_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/588_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/209_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/525_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/525_bulge.txt", "clsname": "car"}
+{"filename": "car/test/335_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/606_sink.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/606_sink.txt", "clsname": "car"}
+{"filename": "car/test/353_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/453_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/453_bulges.txt", "clsname": "car"}
+{"filename": "car/test/534_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/534_bulges.txt", "clsname": "car"}
+{"filename": "car/test/423_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/543_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/543_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/414_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/308_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/378_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/245_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/218_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/462_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/462_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/651_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/651_bulge.txt", "clsname": "car"}
+{"filename": "car/test/387_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/378_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/471_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/471_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/606_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/606_sink_cut.txt", "clsname": "car"}
+{"filename": "car/test/588_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/588_bulge.txt", "clsname": "car"}
+{"filename": "car/test/326_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/660_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/660_bulge.txt", "clsname": "car"}
+{"filename": "car/test/414_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/335_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/227_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/227_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/254_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/561_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/561_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/570_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/570_bulge_cut.txt", "clsname": "car"}
+{"filename": "car/test/200_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "car/test/642_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "car/gt/642_bulge.txt", "clsname": "car"}
+{"filename": "car/test/344_good.pcd", "label": 0, "label_name": "good", "clsname": "car"}
+{"filename": "gemstone/test/265_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/691_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/455_good_copy.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/548_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/385_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/385_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/617_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/631_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/434_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/434_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/814_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/814_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/603_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/807_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/807_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/349_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/349_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/807_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/807_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/582_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/684_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/342_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/342_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/413_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/244_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/244_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/821_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/821_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/363_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/244_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/244_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/399_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/399_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/828_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/828_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/624_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/751_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/751_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/251_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/251_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/279_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/279_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/596_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/476_sink_copy.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/476_sink_copy.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/490_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/490_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/684_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/441_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/483_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/483_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/420_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/399_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/399_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/441_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/624_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/677_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/603_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/582_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/483_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/483_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/610_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/413_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/800_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/800_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/258_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/469_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/469_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/230_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/469_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/469_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/385_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/385_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/610_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/300_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/300_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/209_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/568_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/568_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/230_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/455_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/772_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/772_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/793_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/793_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/321_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/321_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/589_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/342_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/342_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/427_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/427_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/427_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/427_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/548_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/821_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/821_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/293_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/677_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/691_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/293_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/209_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/335_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/448_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/363_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/617_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/814_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/814_sink_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/300_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/300_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/314_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/314_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/420_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/314_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/314_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/258_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/589_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/765_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/765_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/596_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/793_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/793_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/265_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/751_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/751_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/448_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/476_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/476_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/631_good.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/828_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/828_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/321_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/321_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/279_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/279_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/335_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "gemstone"}
+{"filename": "gemstone/test/765_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/765_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/349_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/349_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/772_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/772_bulge.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/251_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/251_bulge_cut.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/434_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/434_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/490_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/490_sink.txt", "clsname": "gemstone"}
+{"filename": "gemstone/test/800_sink.pcd", "label": 1, "label_name": "defective", "maskname": "gemstone/gt/800_sink.txt", "clsname": "gemstone"}
+{"filename": "fish/test/214_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/310_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/310_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/284_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/284_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/328_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/328_bulges.txt", "clsname": "fish"}
+{"filename": "fish/test/251_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/300_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/300_bulges_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/195_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/338_sink.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/338_sink.txt", "clsname": "fish"}
+{"filename": "fish/test/337_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/337_sink_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/291_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/291_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/233_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/242_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/222_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/329_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/329_bulges_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/319_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/319_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/222_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/336_sink.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/336_sink.txt", "clsname": "fish"}
+{"filename": "fish/test/213_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/240_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/249_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/292_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/292_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/302_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/302_sink_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/266_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/215_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/273_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/273_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/206_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/275_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/275_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/320_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/320_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/223_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/275_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/275_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/204_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/215_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/282_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/282_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/233_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/195_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/309_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/309_sink_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/327_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/327_bulges_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/204_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/231_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/300_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/300_bulges.txt", "clsname": "fish"}
+{"filename": "fish/test/224_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/250_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/196_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/311_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/311_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/292_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/292_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/345_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/345_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/309_sink.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/309_sink.txt", "clsname": "fish"}
+{"filename": "fish/test/258_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/196_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/318_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/318_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/311_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/311_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/318_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/318_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/241_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/259_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/328_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/328_bulges_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/242_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/232_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/293_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/293_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/240_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/320_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/320_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/283_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/283_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/214_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/266_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/301_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/301_sinks_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/291_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/291_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/251_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/319_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/319_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/274_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/274_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/206_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/205_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/310_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/310_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/283_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/283_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/336_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/336_sink_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/284_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/284_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/293_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/293_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/274_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/274_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/337_sink.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/337_sink.txt", "clsname": "fish"}
+{"filename": "fish/test/301_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/301_sinks.txt", "clsname": "fish"}
+{"filename": "fish/test/249_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/224_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/345_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/345_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/231_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/250_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/258_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/241_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/197_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/205_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/259_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/282_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/282_bulge_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/338_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/338_sink_cut.txt", "clsname": "fish"}
+{"filename": "fish/test/213_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/188_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/302_sink.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/302_sink.txt", "clsname": "fish"}
+{"filename": "fish/test/232_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/327_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/327_bulges.txt", "clsname": "fish"}
+{"filename": "fish/test/223_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/197_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "fish/test/273_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/273_bulge.txt", "clsname": "fish"}
+{"filename": "fish/test/329_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "fish/gt/329_bulges.txt", "clsname": "fish"}
+{"filename": "fish/test/188_good.pcd", "label": 0, "label_name": "good", "clsname": "fish"}
+{"filename": "chicken/test/709_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/709_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/594_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/594_sink_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/569_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/702_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/702_bulges.txt", "clsname": "chicken"}
+{"filename": "chicken/test/280_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/280_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/700_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/700_sinks.txt", "clsname": "chicken"}
+{"filename": "chicken/test/489_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/209_hybrid_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/209_hybrid_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/153_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/701_hybrid.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/701_hybrid.txt", "clsname": "chicken"}
+{"filename": "chicken/test/705_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/705_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/484_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/771_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/711_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/711_sinks_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/708_sink.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/708_sink.txt", "clsname": "chicken"}
+{"filename": "chicken/test/549_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/764_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/281_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/281_bulges_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/454_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/699_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/699_bulges.txt", "clsname": "chicken"}
+{"filename": "chicken/test/706_sink.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/706_sink.txt", "clsname": "chicken"}
+{"filename": "chicken/test/5_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/579_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/579_bulges.txt", "clsname": "chicken"}
+{"filename": "chicken/test/641_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/705_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/705_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/704_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/704_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/620_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/699_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/699_bulges_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/714_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/714_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/712_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/712_sinks_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/484_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/778_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/620_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/509_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/509_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/431_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/706_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/706_sink_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/701_hybrid_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/701_hybrid_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/707_sink.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/707_sink.txt", "clsname": "chicken"}
+{"filename": "chicken/test/594_sink.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/594_sink.txt", "clsname": "chicken"}
+{"filename": "chicken/test/564_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/544_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/634_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/648_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/479_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/202_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/202_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/559_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/123_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/554_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/574_hybrid_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/574_hybrid_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/634_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/574_hybrid.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/574_hybrid.txt", "clsname": "chicken"}
+{"filename": "chicken/test/123_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/202_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/202_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/792_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/792_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/509_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/509_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/806_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/806_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/153_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/334_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/613_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/710_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/710_sinks.txt", "clsname": "chicken"}
+{"filename": "chicken/test/479_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/5_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/489_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/280_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/280_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/564_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/160_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/554_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/764_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/449_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/431_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/449_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/209_hybrid.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/209_hybrid.txt", "clsname": "chicken"}
+{"filename": "chicken/test/559_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/700_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/700_sinks_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/713_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/713_bulges_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/730_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/730_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/549_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/454_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/707_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/707_sink_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/710_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/710_sinks_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/702_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/702_bulges_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/579_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/579_bulges_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/711_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/711_sinks.txt", "clsname": "chicken"}
+{"filename": "chicken/test/704_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/704_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/438_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/771_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/641_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/613_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/708_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/708_sink_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/438_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/778_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/334_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/544_good.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/160_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/712_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/712_sinks.txt", "clsname": "chicken"}
+{"filename": "chicken/test/713_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/713_bulges.txt", "clsname": "chicken"}
+{"filename": "chicken/test/792_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/792_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/806_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/806_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/648_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/703_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/703_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/730_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/730_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/714_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/714_bulge.txt", "clsname": "chicken"}
+{"filename": "chicken/test/281_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/281_bulges.txt", "clsname": "chicken"}
+{"filename": "chicken/test/709_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/709_bulge_cut.txt", "clsname": "chicken"}
+{"filename": "chicken/test/569_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "chicken"}
+{"filename": "chicken/test/703_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "chicken/gt/703_bulge.txt", "clsname": "chicken"}
+{"filename": "diamond/test/265_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/235_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/218_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/390_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/390_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/535_sink.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/535_sink.txt", "clsname": "diamond"}
+{"filename": "diamond/test/360_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/380_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/380_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/340_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/515_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/515_sink_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/530_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/530_sink_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/415_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/415_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/520_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/520_sink_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/405_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/405_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/240_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/427_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/427_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/434_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/434_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/285_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/290_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/295_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/305_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/441_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/441_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/365_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/365_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/280_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/350_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/395_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/395_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/290_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/484_hybrid_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/484_hybrid_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/375_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/375_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/280_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/235_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/245_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/390_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/390_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/285_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/330_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/345_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/370_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/370_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/498_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/498_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/395_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/395_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/270_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/315_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/484_hybrid.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/484_hybrid.txt", "clsname": "diamond"}
+{"filename": "diamond/test/320_good_copy.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/515_sink.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/515_sink.txt", "clsname": "diamond"}
+{"filename": "diamond/test/448_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/448_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/230_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/434_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/434_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/510_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/510_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/370_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/370_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/405_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/405_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/275_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/525_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/525_sink_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/305_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/255_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/240_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/498_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/498_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/230_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/275_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/225_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/350_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/385_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/385_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/330_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/400_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/400_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/477_hybrid.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/477_hybrid.txt", "clsname": "diamond"}
+{"filename": "diamond/test/415_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/415_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/380_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/380_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/375_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/375_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/225_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/315_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/427_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/427_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/365_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/365_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/325_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/448_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/448_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/335_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/477_hybrid_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/477_hybrid_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/340_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/325_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/530_sink.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/530_sink.txt", "clsname": "diamond"}
+{"filename": "diamond/test/400_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/400_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/441_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/441_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/470_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/470_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/245_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/218_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/520_sink.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/520_sink.txt", "clsname": "diamond"}
+{"filename": "diamond/test/320_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/491_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/491_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/360_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/197_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/491_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/491_bulge.txt", "clsname": "diamond"}
+{"filename": "diamond/test/265_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/345_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/270_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/525_sink.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/525_sink.txt", "clsname": "diamond"}
+{"filename": "diamond/test/335_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/535_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/535_sink_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/470_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/470_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/295_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/385_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/385_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/510_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "diamond/gt/510_bulge_cut.txt", "clsname": "diamond"}
+{"filename": "diamond/test/255_good.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "diamond/test/197_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "diamond"}
+{"filename": "starfish/test/506_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/506_bulges_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/552_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/552_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/470_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/470_bulges_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/615_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/615_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/442_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/442_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/324_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/414_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/414_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/177_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/405_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/405_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/461_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/461_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/240_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/170_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/162_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/331_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/389_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/389_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/191_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/289_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/461_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/461_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/479_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/479_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/488_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/488_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/588_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/588_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/289_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/198_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/561_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/561_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/525_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/525_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/561_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/561_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/198_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/146_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/433_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/433_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/615_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/615_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/642_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/642_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/497_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/497_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/396_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/396_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/338_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/146_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/303_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/543_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/543_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/345_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/254_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/352_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/184_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/479_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/479_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/570_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/570_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/588_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/588_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/184_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/414_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/414_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/162_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/534_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/534_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/177_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/261_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/405_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/405_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/642_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/642_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/570_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/570_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/624_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/624_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/226_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/303_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/534_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/534_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/240_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/170_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/219_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/191_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/624_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/624_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/310_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/282_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/579_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/579_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/205_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/525_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/525_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/155_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/497_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/497_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/338_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/506_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/506_bulges.txt", "clsname": "starfish"}
+{"filename": "starfish/test/579_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/579_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/324_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/282_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/543_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/543_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/470_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/470_bulges.txt", "clsname": "starfish"}
+{"filename": "starfish/test/606_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/606_sinks.txt", "clsname": "starfish"}
+{"filename": "starfish/test/212_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/226_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/552_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/552_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/359_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/261_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/205_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/212_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/606_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/606_sinks_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/310_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/345_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/597_sink.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/597_sink.txt", "clsname": "starfish"}
+{"filename": "starfish/test/155_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/433_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/433_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/389_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/389_bulge.txt", "clsname": "starfish"}
+{"filename": "starfish/test/488_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/488_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/396_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/396_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/597_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/597_sink_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/254_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/442_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "starfish/gt/442_bulge_cut.txt", "clsname": "starfish"}
+{"filename": "starfish/test/359_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/331_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/352_good.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "starfish/test/219_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "starfish"}
+{"filename": "toffees/test/528_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/528_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/469_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/469_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/279_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/483_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/483_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/279_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/328_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/523_hybrid.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/523_hybrid.txt", "clsname": "toffees"}
+{"filename": "toffees/test/405_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/272_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/550_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/550_bulges_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/272_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/356_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/518_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/518_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/523_hybrid_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/523_hybrid_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/398_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/533_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/533_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/483_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/483_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/363_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/533_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/533_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/427_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/286_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/599_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/599_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/511_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/511_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/441_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/441_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/511_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/511_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/564_sink.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/564_sink.txt", "clsname": "toffees"}
+{"filename": "toffees/test/550_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/550_bulges.txt", "clsname": "toffees"}
+{"filename": "toffees/test/469_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/469_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/455_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/455_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/307_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/300_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/490_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/490_bulges.txt", "clsname": "toffees"}
+{"filename": "toffees/test/497_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/497_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/384_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/592_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/592_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/342_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/307_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/349_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/258_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/448_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/448_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/286_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/342_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/557_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/557_sink_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/377_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/321_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/300_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/462_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/462_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/405_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/384_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/419_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/557_sink.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/557_sink.txt", "clsname": "toffees"}
+{"filename": "toffees/test/356_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/476_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/476_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/504_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/504_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/571_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/571_sink_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/427_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/370_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/476_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/476_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/599_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/599_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/293_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/265_good_copy.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/585_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/585_bulges.txt", "clsname": "toffees"}
+{"filename": "toffees/test/455_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/455_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/538_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/538_sink_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/585_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/585_bulges_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/448_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/448_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/293_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/335_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/606_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/606_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/490_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/490_bulges_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/363_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/391_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/412_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/592_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/592_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/497_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/497_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/578_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/578_bulges.txt", "clsname": "toffees"}
+{"filename": "toffees/test/538_sink.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/538_sink.txt", "clsname": "toffees"}
+{"filename": "toffees/test/564_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/564_sink_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/412_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/441_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/441_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/258_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/462_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/462_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/391_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/265_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/377_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/571_sink.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/571_sink.txt", "clsname": "toffees"}
+{"filename": "toffees/test/504_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/504_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/419_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/606_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/606_bulge_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/328_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/314_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/578_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/578_bulges_cut.txt", "clsname": "toffees"}
+{"filename": "toffees/test/349_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/321_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/335_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/314_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/518_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/518_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/370_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "toffees/test/528_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "toffees/gt/528_bulge.txt", "clsname": "toffees"}
+{"filename": "toffees/test/398_good.pcd", "label": 0, "label_name": "good", "clsname": "toffees"}
+{"filename": "seahorse/test/214_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/189_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/310_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/310_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/248_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/266_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/266_bulges_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/284_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/284_bulges.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/222_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/276_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/276_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/319_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/319_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/222_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/213_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/240_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/249_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/257_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/239_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/292_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/292_sink_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/302_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/302_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/275_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/275_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/320_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/320_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/223_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/275_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/275_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/204_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/302_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/302_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/294_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/294_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/337_sink_copy.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/337_sink_copy.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/204_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/189_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/231_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/276_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/276_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/330_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/330_sink_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/239_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/328_sink.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/328_sink.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/250_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/285_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/285_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/312_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/312_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/196_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/311_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/311_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/266_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/266_bulges.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/221_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/258_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/196_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/267_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/267_bulges_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/230_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/311_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/311_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/257_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/241_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/321_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/321_bulges.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/232_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/221_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/240_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/320_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/320_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/283_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/283_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/293_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/293_sink_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/293_sink.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/293_sink.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/230_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/214_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/329_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/329_sinks.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/265_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/265_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/303_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/303_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/301_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/301_sinks_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/248_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/181_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/319_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/319_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/274_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/274_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/205_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/310_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/310_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/283_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/283_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/312_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/312_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/274_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/274_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/337_sink.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/337_sink.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/301_sinks.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/301_sinks.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/303_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/303_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/249_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/231_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/250_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/258_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/212_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/328_sink_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/328_sink_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/241_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/197_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/285_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/285_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/205_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/329_sinks_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/329_sinks_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/212_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/292_sink.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/292_sink.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/180_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/330_sink.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/330_sink.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/267_bulges.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/267_bulges.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/265_bulge.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/265_bulge.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/294_bulge_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/294_bulge_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/181_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/180_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/213_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/188_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/232_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/223_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/321_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/321_bulges_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/284_bulges_cut.pcd", "label": 1, "label_name": "defective", "maskname": "seahorse/gt/284_bulges_cut.txt", "clsname": "seahorse"}
+{"filename": "seahorse/test/197_good_cut.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}
+{"filename": "seahorse/test/188_good.pcd", "label": 0, "label_name": "good", "clsname": "seahorse"}

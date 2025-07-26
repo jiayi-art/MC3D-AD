@@ -1,0 +1,103 @@
+version: v1.0.0
+random_seed: 42
+port: 11112
+
+dataset:
+  type: custom
+  data_dir: /Path/to/your/real3D_down/    #This path must be modified to the absolute path of your own dataset !!!
+
+  train:
+    meta_file: ../../data/Real3D/train.json
+
+  test:
+    meta_file: ../../data/Real3D/test.json
+
+  batch_size: 1
+  workers: 1 # number of workers of dataloader for each process
+
+criterion:
+  - name: FeatureMSELoss
+    type: FeatureMSELoss
+    kwargs:
+      weight: 1.0
+  # - name: CLSEntropyLoss
+  #   type: CLSEntropyLoss
+  #   kwargs:
+  #     weight: 1.0
+
+trainer:
+  max_epoch: 1000
+  clip_max_norm: 0.1
+  val_freq_epoch: 100
+  print_freq_step: 1
+  tb_freq_step: 1
+  lr_scheduler:
+    type: StepLR
+    kwargs:
+      step_size: 800
+      gamma: 0.1
+  optimizer:
+    type: AdamW
+    kwargs:
+      lr: 0.0001
+      betas: [0.9, 0.999]
+      weight_decay: 0.0001
+
+saver:
+  auto_resume: False
+  always_save: False
+  load_path: checkpoints/ckpt.pth.tar
+  save_dir: checkpoints/
+  log_dir: log/
+
+evaluator:
+  save_dir: result
+  key_metric: mean_obj-AUROC_auc
+  metrics:
+    auc:
+      - name: std
+      - name: max
+        kwargs:
+          avgpool_size: [16, 16]
+      - name: pixel
+  # vis_compound:
+  #   save_dir: vis_compound
+
+frozen_layers: [backbone]
+
+net:
+    - name: backbone
+      type: models.backbones.pointmae
+      frozen: True
+      kwargs:
+        pretrained: True
+        outlayers: [1,2,3,4]
+        checkpoint_path: ../../pretrain_ckp/modelnet_8k.pth
+        group_size: 128
+        num_group: 4096
+        data_dir: /Path/to/your/real3D_down/  #This path must be modified to the absolute path of your own dataset !!!
+    - name: reconstruction
+      prev: backbone
+      type: models.reconstructions.UniAD
+      kwargs: 
+        inplanes: 384
+        feature_size: 4096
+        hidden_dim: 256
+        nhead: 8
+        num_encoder_layers: 4
+        num_decoder_layers: 4
+        dim_feedforward: 1024
+        dropout: 0.1
+        cls_num: 12
+        activation: relu
+        k: 7
+        mask_ratio: 0.4
+        normalize_before: False
+        feature_jitter:
+          scale: 20.0
+          prob: 1.0
+        neighbor_mask: 
+          neighbor_size: [32,32]
+          mask: [True, True, True] 
+        initializer:
+          method: xavier_uniform
