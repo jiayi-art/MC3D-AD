@@ -1,6 +1,6 @@
 # MC3D-AD
 Official PyTorch Implementation of [MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category
-3D Anomaly Detection](https://arxiv.org/abs/2505.01969). Accepted by IJCAI 2025.
+3D Anomaly Detection](https://www.ijcai.org/proceedings/2025/94). Accepted by IJCAI 2025.
 
 ![Image text](docs/MC3D-AD.png)
 
