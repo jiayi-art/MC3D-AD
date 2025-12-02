@@ -40,7 +40,7 @@ def tensor_to_o3d_pointcloud(tensor):
 
 parser = argparse.ArgumentParser()
 args = parser.parse_args()
-parser.add_argument("--readl3d_path", type=str, default="/Your/Path/To/Real3D-AD-PCD")
+parser.add_argument("--real3d_path", type=str, default="/Your/Path/To/Real3D-AD-PCD")
 
 with open("./data/Real3D/train.json", "r") as f_r:
     metas = []
