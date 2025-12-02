@@ -25,7 +25,7 @@ Point-MAE pre-trained weights can be downloaded [here](https://github.com/Pang-Y
 
 - **Real3D Downsampling.** To simplify the training, you first need to downsampling the training set of Real3D. You can use the following command:
 `
-python downsample_pcd.py --radl3d_path <Path/to/your/Real3D-AD-PCD>
+python downsample_pcd.py --real3d_path <Path/to/your/Real3D-AD-PCD>
 `
 After the above operations are completed, the `real3D_down` directory will be created in the same directory layer as `Real3D-AD-PCD`.
 - **cd the experiment directory** by running `cd ./experiments/real3d/`. 
