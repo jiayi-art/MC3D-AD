@@ -68,8 +68,9 @@ Anomaly-shapeNet
     `sh train.sh 1 #GPU_ID` or `sh eval.sh 1 #GPU_ID`.
 
 
-    **Note**: During eval, please *set config.saver.load_path* to load the checkpoints. 
+    **Note**: During eval, please *set config.saver.load_path* to load the checkpoints.
 
+    **MC3D-AD Model Weights**: [here](https://drive.google.com/drive/folders/16B3cyGhRG2G3IA6m42pG2yQXfatTCLMX?usp=drive_link)
 ## Acknowledgement
 
 Our work is inspired by [UniAD](https://github.com/zhiyuanyou/UniAD) , [Reg3D-AD](https://github.com/M-3LAB/Real3D-AD) and [IMRNet](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Towards_Scalable_3D_Anomaly_Detection_and_Localization_A_Benchmark_via_CVPR_2024_paper.html), thanks their extraordinary works!
